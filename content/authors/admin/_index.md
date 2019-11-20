@@ -18,8 +18,10 @@ role: Recent Graduate from Dalhousie University, Canada
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my Master in Computer Science at Dalhousie University.
-
+bio: I have completed my Master in Computer Science at Dalhousie University.dfhdfhdfhdfhdfhdfhdfhdhdfh
+fdhfdhfdhfdhdfhf
+dfhdfdhfdh
+:
 #Interest
 interests:
 - Human Computer Interaction

@@ -18,9 +18,7 @@ role: Recent Graduate from Dalhousie University, Canada
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my Master in Computer Science at Dalhousie University.dfhdfhdfhdfhdfhdfhdfhdhdfh
-fdhfdhfdhfdhdfhf
-dfhdfdhfdh
+bio: I have completed my Master in Computer Science at Dalhousie University.
 :
 #Interest
 interests:
@@ -70,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have completed my Master in Computer Science from Dalhousie Univeristy. My area of specialization is Human Computer Interaction. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have also worked as a Student Data Analyst at Dalhousie Unviersity. I have a 3.5 years of experience of working as a Senior Systems Engineer at Infosys Limited.

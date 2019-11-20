@@ -21,7 +21,6 @@ role: Recent Graduate from Dalhousie University, Canada
 bio: I have completed my Master in Computer Science at Dalhousie University. My area of specialization is Human Computer Interaction. My thesis aims to come up with a framework which will help future designers to build an interactive device for an art gallery/museum. It aims in communicating between the galleries and the computer scientists. The research involved qualitative and quantitative research using statistical methods.I have also worked as a Student Data Analyst for the Dalhousie Analytics team. I have an experience in working with Restful APIs and web services, and JSON. The job involves retrieving and visualizing data into usable information using Python.
 I have a 3.5 years of experience as a Senior Systems Engineer. My experience involves working on extensive hands-on project which involved handling of large production databases, front-end scripting.I also have an experience in working with supervised and unsupervised machine learning algorithms.
 
-
 interests:
 - Human Computer Interaction
 - User Experience 

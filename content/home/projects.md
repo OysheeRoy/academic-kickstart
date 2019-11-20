@@ -75,4 +75,17 @@ subtitle = ""
  css_class = ""
 +++
 
-FRAMEWORK TO GUIDE DESIGNING OF INTERACTIVE TOOLS FOR ART GALLERIES
+[[projects]]
+  title = "Framework to Guide Designing of Interactive Tools for Art Galleries"
+  company = "Master Thesis "
+  company_url = "https://dalspace.library.dal.ca/handle/10222/76305"
+  location = ""
+  date_start = "2018-04-1"
+  date_end = "2019-08-31"
+  description = """The thesis proposes a framework which will help in designing and building of interactive tools for art galleries. The   Maud Lewis exhibit (present at Art Gallery of Nova Scotia, Halifax) has been used as a reference. Different solutions for the Maud    Lewis exhibit have been suggested based on the data analysis and the framework.
+  Responsibilities include:
+  
+  * User Study
+  * Visualizing
+  """
+

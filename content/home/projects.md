@@ -75,7 +75,7 @@ subtitle = ""
  css_class = ""
 +++
 
-[[projects]]
+[[project]]
   title = "Framework to Guide Designing of Interactive Tools for Art Galleries"
   company = "Master Thesis "
   company_url = "https://dalspace.library.dal.ca/handle/10222/76305"

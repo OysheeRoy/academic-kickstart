@@ -5,6 +5,7 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "projects"  # Page type is a Widget Page
 widget: "portfolio"
 
+date_format = "Jan 2006"
 [design]
-  columns = "1"
+  view = 2
 ---

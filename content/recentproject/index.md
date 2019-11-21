@@ -21,12 +21,12 @@ headless = true  # This file represents a page section.
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "HCI"
+    tag = "HCI"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Data Analytics"
+    tag = "data"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

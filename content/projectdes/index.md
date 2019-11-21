@@ -4,4 +4,7 @@ title: "Recent Projects"  # Add a page title.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "projects"  # Page type is a Widget Page
 widget: "portfolio"
+
+[design]
+  columns = "1"
 ---

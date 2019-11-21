@@ -49,3 +49,4 @@ headless = true  # This file represents a page section.
   flip_alt_rows = false
   
 +++
+{{% alert note %}} Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}). {{% /alert %}}

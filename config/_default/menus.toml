@@ -22,10 +22,6 @@
   name = "Projects"  # Title of the link.
   url = "projectdes/"  # Widget Page folder name.
   weight = 30
-#[[main]]
- # name = "Projects"
-  #url = "#projects"
-  #weight = 30
 
 [[main]]
   name = "Publications"

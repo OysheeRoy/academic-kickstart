@@ -8,5 +8,5 @@ abstract: "The thesis proposes a framework which will help in designing and buil
 featured: false
 publication: "Dalhousie University"
 #tags: ["", "Computer science", "Costs", "Internet", "Mobile computing", "Network address translation", "Network servers", "North America", "Protocols", "Web server"]
-#url: "https://dalspace.library.dal.ca//handle/10222/76305"
+external_link: "https://dalspace.library.dal.ca//handle/10222/76305"
 ---

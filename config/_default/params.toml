@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "oyshee_saharoy.jpg"
 
 ############################
 ## Site Features
@@ -66,7 +66,7 @@ math = false
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
@@ -121,7 +121,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "oyshee_Saharoy.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 #twitter = ""

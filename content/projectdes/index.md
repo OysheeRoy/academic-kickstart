@@ -6,6 +6,5 @@ type: "projects"  # Page type is a Widget Page
 widget: "portfolio"
 
 date_format = "Jan 2006"
-[design]
-  view = 2
+
 ---

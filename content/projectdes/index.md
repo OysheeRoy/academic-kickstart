@@ -5,6 +5,6 @@ date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widgets_page"  # Page type is a Widget Page
 widget = "portfolio"  # Use the Portfolio widget
 headless = true  # This file represents a page section.
-
+---
 # ... Put Your Section Options Here (title etc.) ...
 

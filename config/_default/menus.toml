@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Projects"  # Title of the link.
- url = "projectdes/"  # Widget Page folder name.
+ url = "recentproject/"  # Widget Page folder name.
   weight = 30
 
 [[main]]

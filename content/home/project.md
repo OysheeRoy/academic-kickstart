@@ -66,9 +66,11 @@ subtitle = "Recent Projects"
  css_class = ""
 +++
 
--Thesis
+-{{% staticref "files/OysheeSahaRoy_Resume.pdf" "newtab" %}}Thesis{{% /staticref %}}
+
 -ACT
+
 -Analytics
-{{% alert note %}}
-Project list({{< ref "/projects/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Project list({{< ref "/projects/_index.md" >}}).
+#{{% /alert %}}

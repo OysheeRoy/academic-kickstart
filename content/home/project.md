@@ -66,6 +66,6 @@ subtitle = "Recent Projects"
  css_class = ""
 +++
 
-#{{% alert note %}}
-#({{< ref "/projects/_index.md" >}}).
-#{{% /alert %}}
+{{% alert note %}}
+Project list({{< ref "/projects/_index.md" >}}).
+{{% /alert %}}

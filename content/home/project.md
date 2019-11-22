@@ -13,6 +13,6 @@ title = "Recent Projects"
 #author = "admin"
 +++
 
-- {{% staticref "files/OysheeSahaRoy_Resume.pdf" "newtab" %}}Thesis{{% /staticref %}}
+- [Master Thesis]({{< ref "/project/thesis/index.md" >}})
 
 - ACT

@@ -11,6 +11,7 @@ title: Projects
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "The framework"
-  image: "oyshee_saharoy"
+ # caption: "The framework"
+  
+  #image: "oyshee_saharoy"
 ---

@@ -67,5 +67,5 @@ subtitle = "Recent Projects"
 +++
 
 #{{% alert note %}}
-({{< ref "/projects/_index.md" >}}).
+#({{< ref "/projects/_index.md" >}}).
 #{{% /alert %}}

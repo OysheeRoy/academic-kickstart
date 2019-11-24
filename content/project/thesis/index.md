@@ -35,8 +35,7 @@ affinity diagram. These themes and relations helped us to make the initial sketc
 
 
 - **Framework:** 
-{{< figure library="true" src="framework.png" title="Overview of the framework which will assist in designing future interactive
-tools for art galleries." lightbox="true" >}}
+{{< figure library="true" src="framework.png" title="Overview of the framework which will assist in designing future interactive tools for art galleries." lightbox="true" >}}
 
 The proposed framework is made up of 5 modules:
 1. Information Module: The types of information provided at an gallery/musuem has been categorized to two types-  Synchronous (One where the exhibits have a story-telling aspect and a structured guided tour of the exhibits is suggested for a better experience) and Asynchornous (the route of tour does not impact the engagement and they visitor is advised to go around based on their preferences and choices). 

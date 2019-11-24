@@ -24,11 +24,14 @@ date_format = "Jan 2006"
   location = "Halifax,Canada"
   date_start = "2017-02-15"
   date_end = "2019-08-31"
-  description = """
+  description = """  
   Responsibilities include:
   
-  * Analyzing
-  * Visualizing
+  * Fetching JSON data from RESTful APIs.
+  * The fecthed data were cleaned and stored in tables in PostgreSQL.
+  * The collected data was further cleaned using Fuzzy matching.
+  * The collected data was analyzed to answer the wuestions of the project.
+  * Analyzed data were visualized using matplotlib, Dashapps.
   """
 
 [[experience]]
@@ -41,8 +44,10 @@ date_format = "Jan 2006"
   description = """Experience in working with Agile methodology. 
   Responsibilities include:
   
-  * Handling large Databases
-  * Front-end Scripting
+  * I have worked in Media, Logistics and Retail domain.
+  * Experience in front-end scripting of Roku boxes.
+  * Experience in development and maintenance of Menidx applications.
+  * Experience in working on Loyalty based projects and development of POS systems.
   """
 
 +++

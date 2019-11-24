@@ -43,7 +43,7 @@ affinity diagram. These themes and relations helped us to make the initial sketc
 
 
 - **Framework:** 
-{{< figure library="true" src="framework" title="Overview of the framework which will assist in designing future interactive tools for art galleries." lightbox="true" >}}
+{{< figure library="true" src="framework.png" title="Overview of the framework which will assist in designing future interactive tools for art galleries." lightbox="true" >}}
 
 The proposed framework is made up of 5 modules:
 
@@ -78,4 +78,4 @@ get inspired from their stories.
 We have suggested a framework instead of a specific tool as every exhibit is unique in its own way and every artist has different vision and motivation for their work. So a tool should be designed to meet those demands. Another important aspect of an
 art gallery is that all its exhibits are not permanent. Although a gallery may have a few permanent exhibits, most of the shows or displays are temporary and they are changed from time to time. Hence, any tools that are suggested should not have an elaborate setup as well as should be cost-efficient. 
 
-- [Link to full thesis](https://dalspace.library.dal.ca/handle/10222/76305)
+[Link to full thesis](https://dalspace.library.dal.ca/handle/10222/76305)

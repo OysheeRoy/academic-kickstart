@@ -21,7 +21,6 @@ The thesis proposes a framework which will help in designing and building of int
 
 The research aims to promote Acceptance and Commitment therapy (ACT) among college and university students through a mobile application. A study was conducted in three phases: Online Survey, Unstructured Interview, and heuristic evaluation and user evaluation.  The final results showed a positive inclination towards the proposed application.
 
-
-- [**Heart Disease Prediction Using Data Mining Techniques**]({{< ref "/project/heart/index.md" >}}
+- [**Heart Disease Prediction Using Data Mining Techniques**]({{< ref "/project/heart/index.md" >}})
 
 Heart disease is increasing day by day in today's world due to lifestyle, heredity. In this project, decision tree classifiers as well as a probability based classifier. The algorithms that we will be using are (i) Naïve Bayes classifier (ii) J48 algorithm (iii) Random forest classifier. We will be using an existing patient dataset of Cleveland from UCI repository to test and analyze the algorithms. Experiments result have been found to reach an accuracy up to 59%.

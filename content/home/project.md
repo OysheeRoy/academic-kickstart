@@ -20,3 +20,4 @@ title = "Recent Projects"
 - **Promoting Acceptance and Commitment Therapy (ACT) through mobile application**
 
 **Abstract:**
+[Details]({{< ref "/project/act/index.md" >}})

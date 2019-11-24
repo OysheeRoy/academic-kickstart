@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Fetching JSON data from RESTful APIs.
-  * The fecthed data were cleaned and stored in tables in PostgreSQL.
+  * The fetched data were cleaned and stored in tables in PostgreSQL.
   * The collected data was further cleaned using Fuzzy matching.
   * The collected data was analyzed to answer the wuestions of the project.
   * Analyzed data were visualized using matplotlib, Dashapps.

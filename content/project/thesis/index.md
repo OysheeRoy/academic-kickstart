@@ -21,7 +21,7 @@ Another motivation was to encourage the millennials to visit galleries or museum
 
 Art galleries and museums also act as important location of programs offered to people with mental and physical health issues. It was our aim to provide a more accessible experience at a gallery.
 
--**Research Problem:**
+- **Research Problem:**
 
 While exploring different interactive options present in art galleries, the most important point that came up was to build the bridge between the artwork and the visitors. An interactive tool facilitates the interaction between the work and the visitor and provides additional information to provide an engaging experience. We want to assist future designers in their tool selection and building process. Hence we narrowed our research problem to:
 
@@ -73,7 +73,9 @@ paintings can then be scanned and made into visual markers. Each marker can be a
 get inspired from their stories.
 
 
-- **Conclusion:** We have suggested a framework instead of a specific tool as every exhibit is unique in its own way and every artist has different vision and motivation for their work. So a tool should be designed to meet those demands. Another important aspect of an
+- **Conclusion:** 
+
+We have suggested a framework instead of a specific tool as every exhibit is unique in its own way and every artist has different vision and motivation for their work. So a tool should be designed to meet those demands. Another important aspect of an
 art gallery is that all its exhibits are not permanent. Although a gallery may have a few permanent exhibits, most of the shows or displays are temporary and they are changed from time to time. Hence, any tools that are suggested should not have an elaborate setup as well as should be cost-efficient. 
 
 - [Link to full thesis](https://dalspace.library.dal.ca/handle/10222/76305)

@@ -19,5 +19,5 @@ title = "Recent Projects"
 
 - **Promoting Acceptance and Commitment Therapy (ACT) through mobile application**
 
-**Abstract:**
+**Abstract:** The research aims to promote Acceptance and Commitment therapy (ACT) among college and university students through a mobile application. A study was conducted in three phases. In the first phase, an online survey helped to understand the basic requirements of the students. The collected data was used to design a low-fidelity prototype. This prototype was used for the second phase of data collection. Unstructured one-to-one interviews were conducted and feedback on the prototype was collected. Further literature survey results and data from the interviews were used to design the high-fidelity prototype using the Marvel wireframing application. In the last phase, heuristic evaluation as well as user evaluation was conducted via an online survey. The final results showed a positive inclination towards the proposed application.
 [Details]({{< ref "/project/act/index.md" >}})

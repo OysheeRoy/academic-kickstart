@@ -18,6 +18,7 @@ Therefore the already available dataset can be used for diagnosing. Over the yea
 collected. Those data can be mined to find hidden patterns which can eventually help in decision making. Data mining is the process
 of finding hidden patterns or relationships with large sets of data, and it also helps to predict outcomes based on that analysis.
 Thus by building a heart disease prediction system using data mining technique can aid in early –detection or prevention of the disease. The accuracy of prediction depends on the selection of parameters to be used.
+
 - **Objective:** 
 
 The application scenario referred in this project is to predict heart disease using decision tree algorithms.

@@ -50,5 +50,5 @@ while J48 algorithm has the lowest accuracy, i.e. 57.37 %.In conclusion, althoug
 the referred paper, there is a need for combinational and more complex models to increase the accuracy of predicting the early
 onset of heart disease.
 
-- {{% staticref "files/heart.pdf" "newtab" %}}Link to full project{{% /staticref %}}
+#- {{% staticref "files/heart.pdf" "newtab" %}}Link to full project{{% /staticref %}}
 

@@ -21,3 +21,8 @@ title = "Recent Projects"
 
 **Abstract:** The research aims to promote Acceptance and Commitment therapy (ACT) among college and university students through a mobile application. A study was conducted in three phases. In the first phase, an online survey helped to understand the basic requirements of the students. The collected data was used to design a low-fidelity prototype. This prototype was used for the second phase of data collection. Unstructured one-to-one interviews were conducted and feedback on the prototype was collected. Further literature survey results and data from the interviews were used to design the high-fidelity prototype using the Marvel wireframing application. In the last phase, heuristic evaluation as well as user evaluation was conducted via an online survey. The final results showed a positive inclination towards the proposed application.
 [Details]({{< ref "/project/act/index.md" >}})
+
+- **Heart Disease Prediction Using Data Mining Techniques**
+
+**Abstract:** Heart disease is increasing day by day in today's world due to lifestyle, heredity.It is one of the leading causes of death in the world. Heart disease prediction will help to detect the disease faster and help to reduce the number of deaths. Here we will be using decision tree classifiers as well as a probability based classifier. The algorithms that we will be using are (i) Naïve Bayes classifier (ii) J48 algorithm (iii) Random forest classifier. We will be using an existing patient dataset of Cleveland from UCI repository to test and analyze the algorithms. Experiments result have been found to reach an accuracy up to 59%.
+[Details]({{< ref "/project/heart/index.md" >}})

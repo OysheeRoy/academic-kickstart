@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   * Fetching JSON data from RESTful APIs.
   * The fetched data were cleaned and stored in tables in PostgreSQL.
   * The collected data was further cleaned using Fuzzy matching.
-  * The collected data was analyzed to answer the wuestions of the project.
+  * The collected data was analyzed to answer the questions of the project.
   * Analyzed data were visualized using matplotlib, Dash apps.
   """
 

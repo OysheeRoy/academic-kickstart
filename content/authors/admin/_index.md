@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I have completed my Master in Computer Science from Dalhousie Univeristy. My area of specialization is Human Computer Interaction. 
+I have completed my Master in Computer Science from Dalhousie University. My area of specialization is Human Computer Interaction. 
 
-I have also worked as a Student Data Analyst at Dalhousie Unviersity. I have a 3.5 years of experience of working as a Senior Systems Engineer at Infosys Limited.
+I have also worked as a Student Data Analyst at Dalhousie University. I have a 3.5 years of experience of working as a Senior Systems Engineer at Infosys Limited.

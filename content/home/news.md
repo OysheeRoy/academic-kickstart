@@ -13,7 +13,7 @@ title = "Publications"
 #author = "admin"
 +++
 **Certification**
-[Introduction to User Experience Principles and Processes]({{< ref "/publication/protocol/certificate.md" >}})
+[Introduction to User Experience Principles and Processes]({{< ref "/static/files/certificate.pdf" >}})
 Issuing authorityan online non-credit course authorized by University of Michigan and offered through Coursera
 
 Issued date and, if applicable, expiration date of the certification or licenseIssued Jan 2020

@@ -14,7 +14,7 @@ title = "Publications"
 +++
 - **Certification**
 
-{{% staticref "files/certidicate.pdf" "newtab" %}}Introduction to User Experience Principles and Processes{{% /staticref %}}
+{{% staticref "files/certificate.pdf" "newtab" %}}Introduction to User Experience Principles and Processes{{% /staticref %}}
 
 - **Publication**
 

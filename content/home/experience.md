@@ -46,18 +46,22 @@ date_format = "Jan 2006"
   date_end = "2017-12-17"
   description = """
   **Roku**
+  
   * Development of front-end scripts for Roku boxes.
   * Participated in all phases of system development life cycle, from requirements analysis through system implementation
   * Involved in sprint planning, stand-ups in an Agile environment
   * Designing and development of Electronic programming guides
   * Development of Video on Demand screen, video playing features, notification and warning messages, and other features of live as well     as video on demand streaming services
   * Involved in development, dev testing, quality assurance of Roku application
+  
 **TNT**
+
   * Development and maintenance of Mendix application solutions including forms, entities, microflows, transactions, and domain models
   * Performed Unit Testing as per project and client-based guidelines
   * Participated in all phases of system development life cycle, from requirements analysis through system implementation
   * Involved in maintaining databases of transactions, employee history, delivery status and goods details
   * Development of features of applications, directly interacting with clients and providing solutions.
+  
 **Loreal**
   * Development and maintenance of POS application
   * Experience in handling loyalty-based program

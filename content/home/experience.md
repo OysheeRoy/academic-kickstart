@@ -63,6 +63,7 @@ date_format = "Jan 2006"
   * Development of features of applications, directly interacting with clients and providing solutions.
   
 **Loreal**
+
   * Development and maintenance of POS application
   * Experience in handling loyalty-based program
   """

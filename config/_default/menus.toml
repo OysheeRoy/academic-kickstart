@@ -11,17 +11,17 @@
 [[main]]
   name = "News"
   url = "#news"
-  weight = 20
+  weight = 40
   
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Projects"  # Title of the link.
   url = "#project"  # Widget Page folder name.
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Contact"

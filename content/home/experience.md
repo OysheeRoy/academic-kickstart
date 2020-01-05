@@ -27,11 +27,14 @@ date_format = "Jan 2006"
   description = """  
   Responsibilities include:
   
-  * Fetching JSON data from RESTful APIs.
-  * The fetched data were cleaned and stored in tables in PostgreSQL.
-  * The collected data was further cleaned using Fuzzy matching.
-  * The collected data was analyzed to answer the questions of the project.
-  * Analyzed data were visualized using matplotlib, Dash apps.
+  * Participated in requirements meetings and data mapping sessions to understand business needs
+  * Designed and developed schema data models
+  * Fetched JSON data from RESTful APIs. The fetched data were cleaned and stored in tables in PostgreSQL
+  * The collected data was further processed using Fuzzy matching
+  * Helped solve diverse program problems with in-depth analysis
+  * Analyzed data were visualized using matplotlib, plotly, and Dash apps
+  * Updated organizational subsystems to improve and streamline data collection
+
   """
 
 [[experience]]
@@ -41,13 +44,23 @@ date_format = "Jan 2006"
   location = "Trivandrum,India"
   date_start = "2014-08-25"
   date_end = "2017-12-17"
-  description = """Experience in working with Agile methodology. 
-  Responsibilities include:
-  
-  * I have worked in Media, Logistics and Retail domain.
-  * Experience in front-end scripting of Roku boxes.
-  * Experience in development and maintenance of Menidx applications.
-  * Experience in working on Loyalty based projects and development of POS systems.
+  description = """
+  **Roku**
+  * Development of front-end scripts for Roku boxes.
+  * Participated in all phases of system development life cycle, from requirements analysis through system implementation
+  * Involved in sprint planning, stand-ups in an Agile environment
+  * Designing and development of Electronic programming guides
+  * Development of Video on Demand screen, video playing features, notification and warning messages, and other features of live as well     as video on demand streaming services
+  * Involved in development, dev testing, quality assurance of Roku application
+**TNT**
+  * Development and maintenance of Mendix application solutions including forms, entities, microflows, transactions, and domain models
+  * Performed Unit Testing as per project and client-based guidelines
+  * Participated in all phases of system development life cycle, from requirements analysis through system implementation
+  * Involved in maintaining databases of transactions, employee history, delivery status and goods details
+  * Development of features of applications, directly interacting with clients and providing solutions.
+**Loreal**
+  * Development and maintenance of POS application
+  * Experience in handling loyalty-based program
   """
 
 +++

@@ -12,7 +12,10 @@ title = "Publications"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 #author = "admin"
 +++
-**Certification**
-- {{% staticref "files/certidicate.pdf" "newtab" %}}Introduction to User Experience Principles and Processes{{% /staticref %}}
+- **Certification**
 
-- [Protocol to Build a Framework for Designing an Interactive Tool for Art Gallery Visitors]({{< ref "/publication/protocol/index.md" >}})
+{{% staticref "files/certidicate.pdf" "newtab" %}}Introduction to User Experience Principles and Processes{{% /staticref %}}
+
+- **Publication**
+
+ [Protocol to Build a Framework for Designing an Interactive Tool for Art Gallery Visitors]({{< ref "/publication/protocol/index.md" >}})

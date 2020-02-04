@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Recent Graduate from Dalhousie University, Canada
+role: Roku Developer at Clearbridge Mobile
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: Recent Graduate from Dalhousie University, Canada
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I have completed my Master in Computer Science at Dalhousie University.
+bio: User Experience Researcher and Designer
 #Interest
 interests:
 - Human Computer Interaction
@@ -67,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-I have completed my Master in Computer Science from Dalhousie University. My area of specialization is Human Computer Interaction. 
-
-I have also worked as a Student Data Analyst at Dalhousie University. I have a 3.5 years of experience of working as a Senior Systems Engineer at Infosys Limited.
+I am currently working as a Roku Developer at Clearbridge Mobile, Vaughan Ontario. User Experience Researcher and Analyst with experience in conducting user studies, data analysis and designing different interactive interfaces. Senior System Engineer with 3.5 years of experience in working as a Java and Mendix Developer using Agile methodology.  Involved inbusiness requirement gathering, identifying gaps, effort estimations and implementing solutions with adherence to best practices and development guidelines.
